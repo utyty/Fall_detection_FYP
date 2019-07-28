@@ -1,3 +1,3 @@
 # Fall_detection
 
-Fall detection lagrothim it can be find here. 
+Fall detection algorthim for final year project. Main code in fall_detector.m
